@@ -44,8 +44,9 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" alt="GitHub" width="48" height="48"/>
 </p>
 
-🖥️ [03] // DIRECTIVE_LOG (OBJETIVOS)
-Bash
+## 🖥️ [03] // DIRECTIVE_LOG (OBJETIVOS)
+
+```bash
 root@gxxdevv-core:~# cat current_goals.log
 
 [✓] Dominar estruturas de dados e algoritmos em python
@@ -56,6 +57,7 @@ root@gxxdevv-core:~# cat current_goals.log
 [⏳] Conquistar a primeira oportunidade na área de tecnologia
 
 root@gxxdevv-core:~# _
+
 ## 🚀 [04] // PROJETOS_EM_DESTAQUE
 
 <table width="100%">
