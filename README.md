@@ -1,16 +1,10 @@
 <div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Orbitron&weight=700&size=26&duration=3000&pause=1000&color=00F0FF&center=true&vCenter=true&width=650&height=70&lines=SYSTEM.INITIALIZE();GXXDEVV_CORE_v2.0;WELCOME_TO_MY_HUB" alt="Typing Animation" />
-</div>
-
-<br />
-
-<div align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:000000,50:0d1117,100:00f0ff&height=200&section=header&text=GUSTAVO&fontSize=50&fontColor=00f0ff&animation=fadeIn&fontAlignY=35" width="100%" />
 </div>
 
 <div align="center">
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=18&duration=2500&pause=800&color=7000FF&center=true&vCenter=true&width=550&height=40&lines=Estudante+de+Tecnologia;Futuro+Engenheiro+de+Software;Explorando+IA+%2B+Sistemas;Building_Next_Gen_Code..." alt="Typing Subtitle" />
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=18&duration=2500&pause=800&color=7000FF&center=true&vCenter=true&width=550&height=40&lines=Future+Software+Engineer" alt="Typing Subtitle" />
   </a>
 </div>
 
@@ -20,18 +14,17 @@
   <img src="https://img.shields.io/badge/Role-Student_Developer-ff0055?style=for-the-badge&logo=codeforces&logoColor=ff0055" />
 </p>
 
----
-
 ## 🔮 [01] // SOBRE_O_SISTEMA
-{
-  "usuario": "gxxdevv",
-  "status": "Estudante & Desenvolvedor",
-  "foco_atual": "Aprimorando arquitetura de software e lógica de programação",
-  "motto": "Se nem Deus agradou a todos, eu vou agradar? Longe disso..."
-}
+
+* **👤 Usuário:** `gxxdevv` (Gustavo)
+* **🎓 Status:** Estudante & Desenvolvedor
+* **🎯 Foco Atual:** Aprimorando arquitetura de software e lógica de programação
+* **💬 Diretriz:** *"Se nem Deus agradou a todos, eu vou agradar? Longe disso..."*
+
+> 🛸 **Aviso do Sistema:** Em busca constante de conhecimento, resolvendo problemas e desenvolvendo projetos com foco em alto desempenho e visual elegante.
+
 
 ## ⚡ [02] // ARSENAL_TECNOLÓGICO
-
 ### 💻 Linguagens de Programação
 <p align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" alt="Python" width="48" height="48"/>&nbsp;&nbsp;
