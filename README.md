@@ -1,24 +1,23 @@
-Markdown
 <div align="center">
-  <img src="[https://readme-typing-svg.demolab.com?font=Orbitron&weight=700&size=26&duration=3000&pause=1000&color=00F0FF&center=true&vCenter=true&width=650&height=70&lines=SYSTEM.INITIALIZE();GXXDEVV_CORE_v2.0;WELCOME_TO_MY_HUB](https://readme-typing-svg.demolab.com?font=Orbitron&weight=700&size=26&duration=3000&pause=1000&color=00F0FF&center=true&vCenter=true&width=650&height=70&lines=SYSTEM.INITIALIZE();GXXDEVV_CORE_v2.0;WELCOME_TO_MY_HUB)" alt="Typing Animation" />
+  <img src="https://readme-typing-svg.demolab.com?font=Orbitron&weight=700&size=26&duration=3000&pause=1000&color=00F0FF&center=true&vCenter=true&width=650&height=70&lines=SYSTEM.INITIALIZE();GXXDEVV_CORE_v2.0;WELCOME_TO_MY_HUB" alt="Typing Animation" />
 </div>
 
 <br />
 
 <div align="center">
-  <img src="[https://capsule-render.vercel.app/api?type=waving&color=0:000000,50:0d1117,100:00f0ff&height=200&section=header&text=GUSTAVO&fontSize=50&fontColor=00f0ff&animation=fadeIn&fontAlignY=35](https://capsule-render.vercel.app/api?type=waving&color=0:000000,50:0d1117,100:00f0ff&height=200&section=header&text=GUSTAVO&fontSize=50&fontColor=00f0ff&animation=fadeIn&fontAlignY=35)" width="100%" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:000000,50:0d1117,100:00f0ff&height=200&section=header&text=GUSTAVO&fontSize=50&fontColor=00f0ff&animation=fadeIn&fontAlignY=35" width="100%" />
 </div>
 
 <div align="center">
-  <a href="[https://git.io/typing-svg](https://git.io/typing-svg)">
-    <img src="[https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=18&duration=2500&pause=800&color=7000FF&center=true&vCenter=true&width=550&height=40&lines=Estudante+de+Tecnologia;Futuro+Engenheiro+de+Software;Explorando+IA+%2B+Sistemas;Building_Next_Gen_Code](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=18&duration=2500&pause=800&color=7000FF&center=true&vCenter=true&width=550&height=40&lines=Estudante+de+Tecnologia;Futuro+Engenheiro+de+Software;Explorando+IA+%2B+Sistemas;Building_Next_Gen_Code)..." alt="Typing Subtitle" />
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=18&duration=2500&pause=800&color=7000FF&center=true&vCenter=true&width=550&height=40&lines=Estudante+de+Tecnologia;Futuro+Engenheiro+de+Software;Explorando+IA+%2B+Sistemas;Building_Next_Gen_Code..." alt="Typing Subtitle" />
   </a>
 </div>
 
 <p align="center">
-  <img src="[https://img.shields.io/badge/System_Status-ONLINE-00f0ff?style=for-the-badge&logo=radar&logoColor=00f0ff](https://img.shields.io/badge/System_Status-ONLINE-00f0ff?style=for-the-badge&logo=radar&logoColor=00f0ff)" />
-  <img src="[https://img.shields.io/badge/Security_Level-MAX-7000ff?style=for-the-badge&logo=shield&logoColor=7000ff](https://img.shields.io/badge/Security_Level-MAX-7000ff?style=for-the-badge&logo=shield&logoColor=7000ff)" />
-  <img src="[https://img.shields.io/badge/Role-Student_Developer-ff0055?style=for-the-badge&logo=codeforces&logoColor=ff0055](https://img.shields.io/badge/Role-Student_Developer-ff0055?style=for-the-badge&logo=codeforces&logoColor=ff0055)" />
+  <img src="https://img.shields.io/badge/System_Status-ONLINE-00f0ff?style=for-the-badge&logo=radar&logoColor=00f0ff" />
+  <img src="https://img.shields.io/badge/Security_Level-MAX-7000ff?style=for-the-badge&logo=shield&logoColor=7000ff" />
+  <img src="https://img.shields.io/badge/Role-Student_Developer-ff0055?style=for-the-badge&logo=codeforces&logoColor=ff0055" />
 </p>
 
 ---
@@ -30,7 +29,6 @@ Markdown
   "foco_atual": "Aprimorando arquitetura de software e lógica de programação",
   "motto": "Se nem Deus agradou a todos, eu vou agradar? Longe disso..."
 }
-🛸 Aviso do Sistema: Em busca constante de conhecimento, resolvendo problemas e desenvolvendo projetos com foco em alto desempenho e visual elegante.
 
 ## ⚡ [02] // ARSENAL_TECNOLÓGICO
 
