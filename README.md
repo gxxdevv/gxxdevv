@@ -1,79 +1,56 @@
-```markdown
+Markdown
 <div align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Orbitron&weight=700&size=26&duration=3000&pause=1000&color=00F0FF&center=true&vCenter=true&width=650&height=70&lines=SYSTEM.INITIALIZE();GXXDEVV_CORE_v2.0;WELCOME_TO_MY_HUB" alt="Typing Animation" />
+</div>
 
-  <img src="https://readme-typing-svg.demolab.com?font=Orbitron&weight=700&size=26&pause=1000&color=00F0FF&center=true&vcenter=true&width=700&height=70&lines=SYSTEM.INITIALIZE();WELCOME_TO_MY_CORE;AI_INTERFACE_ACTIVE;DEVELOPER_PROFILE_ONLINE" alt="Typing Effect" />
+<br />
 
-```text
-================================================================
- [SYSTEM STATUS: ONLINE]  |  [SECURITY LEVEL: MAXIMUM]  |  [v3.0.4]
-================================================================
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:000000,50:0d1117,100:00f0ff&height=200&section=header&text=GUSTAVO&fontSize=50&fontColor=00f0ff&animation=fadeIn&fontAlignY=35" width="100%" />
+</div>
 
-```
+<div align="center">
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=18&duration=2500&pause=800&color=7000FF&center=true&vCenter=true&width=550&height=40&lines=Estudante+de+Tecnologia;Futuro+Engenheiro+de+Software;Explorando+IA+%2B+Sistemas;Building_Next_Gen_Code..." alt="Typing Subtitle" />
+  </a>
+</div>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/System_Status-ONLINE-00f0ff?style=for-the-badge&logo=radar&logoColor=00f0ff" />
+  <img src="https://img.shields.io/badge/Security_Level-MAX-7000ff?style=for-the-badge&logo=shield&logoColor=7000ff" />
+  <img src="https://img.shields.io/badge/Role-Student_Developer-ff0055?style=for-the-badge&logo=codeforces&logoColor=ff0055" />
+</p>
 
 ---
 
-## 🤖 // ABOUT_ME (INICIALIZANDO DADOS...)
-
-> *"A tecnologia é a extensão da mente humana moldando o futuro."*
+## 🔮 [01] // SOBRE_O_SISTEMA
 
 ```json
 {
-  "developer": "Seu Nome",
-  "role": "Software Engineer / Tech Enthusiast",
-  "location": "Brasil",
-  "focus": "Desenvolvimento de Software, Arquitetura & IA",
-  "status": "Codificando o futuro..."
+  "usuario": "gxxdevv",
+  "status": "Estudante & Desenvolvedor",
+  "foco_atual": "Aprimorando arquitetura de software e lógica de programação",
+  "motto": "Se nem Deus agradou a todos, eu vou agradar? Longe disso..."
 }
+🛸 Aviso do Sistema: Em busca constante de conhecimento, resolvendo problemas complexos e desenvolvendo projetos com foco em alto desempenho e visual futurista.
 
-```
+⚡ [02] // ARSENAL_TECNOLÓGICO
+💻 Linguagens de Programação
+🛠️ Ferramentas & IDEs
+🖥️ [03] // DIRECTIVE_LOG (OBJETIVOS)
+Bash
+root@gxxdevv-core:~# cat current_goals.log
 
-* 🚀 Desenvolvedor apaixonado por soluções inteligentes, interfaces modernas e código limpo.
-* ⚡ Experiência prática em **Python, SQL, JavaScript, HTML, CSS, C# e C++**.
-* 🧠 Focado em arquitetura de software, otimização e automação de sistemas.
+[✓] Dominar estruturas de dados e algoritmos em python
+[✓] Construir aplicações interativas e modulares em Python
+[⏳] Desenvolver e lançar o projeto Vortexx
+[⏳] Aprofundar estudos em bancos de dados SQL
+[⏳] Aprender mais em JavaScript, C# e C++
+[⏳] Conquistar a primeira oportunidade na área de tecnologia
 
----
-
-## ⚡ // TECH_STACK (MÓDULOS ATIVOS)
-
-### 💻 Linguagens de Programação
-
-### 🛠️ Ferramentas & Ecossistema
-
----
-
-## 🛰️ // FEATURED_PROJECTS
-
----
-
-## 🖥️ // CURRENT_TARGETS (TERMINAL LOG)
-
-```bash
-root@jarvis-core:~# cat current_goals.log
-
-[✓] Masterizar conceitos avançados de C++ e gerenciamento de memória
-[>] Construindo aplicações robustas com Python e C#
-[>] Aprimorando conhecimentos em arquitetura de dados e SQL otimizado
-[ ] Desenvolver projetos integrados com Inteligência Artificial
-[ ] Contribuir ativamente em ecossistemas Open Source
-
-```
-
----
-
-## 🏆 // SYSTEM_ACHIEVEMENTS
-
----
-
-## 📊 // DIAGNOSTICS & METRICS
-
-### 📈 Activity Graph
-
----
-
-## 🐍 // CONTRIBUTION_GRID_SNAKE
-
----
-
-⚡ SYSTEM OFFLINE. END OF TRANSMISSION. ⚡
-
----
+root@gxxdevv-core:~# _
+🚀 [04] // PROJETOS_EM_DESTAQUE
+🏆 [05] // CONQUISTAS_DO_SISTEMA
+📊 [06] // METRICAS_DE_DESEMPENHO
+🐍 [07] // CONTRIBUTION_GRID_SNAKE
+📡 [08] // CANAIS_DE_COMUNICAÇÃO
