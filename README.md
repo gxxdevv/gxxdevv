@@ -32,11 +32,29 @@ Markdown
   "foco_atual": "Aprimorando arquitetura de software e lógica de programação",
   "motto": "Se nem Deus agradou a todos, eu vou agradar? Longe disso..."
 }
-🛸 Aviso do Sistema: Em busca constante de conhecimento, resolvendo problemas complexos e desenvolvendo projetos com foco em alto desempenho e visual futurista.
+🛸 Aviso do Sistema: Em busca constante de conhecimento, resolvendo problemas e desenvolvendo projetos com foco em alto desempenho e visual elegante.
 
 ⚡ [02] // ARSENAL_TECNOLÓGICO
-💻 Linguagens de Programação
-🛠️ Ferramentas & IDEs
+  ## ⚡ [02] // ARSENAL_TECNOLÓGICO
+
+### 💻 Linguagens de Programação
+<p align="left">
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="48" height="48"/>&nbsp;&nbsp;
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="csharp" width="48" height="48"/>&nbsp;&nbsp;
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="48" height="48"/>&nbsp;&nbsp;
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="48" height="48"/>&nbsp;&nbsp;
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg" alt="sql" width="48" height="48"/>&nbsp;&nbsp;
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" alt="html5" width="48" height="48"/>&nbsp;&nbsp;
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" alt="css3" width="48" height="48"/>
+</p>
+
+### 🛠️ Ferramentas & IDEs
+<p align="left">
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vscode/vscode-original.svg" alt="vscode" width="48" height="48"/>&nbsp;&nbsp;
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/jetbrains/jetbrains-original.svg" alt="jetbrains" width="48" height="48"/>&nbsp;&nbsp;
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" alt="git" width="48" height="48"/>&nbsp;&nbsp;
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original.svg" alt="github" width="48" height="48"/>
+</p>
 🖥️ [03] // DIRECTIVE_LOG (OBJETIVOS)
 Bash
 root@gxxdevv-core:~# cat current_goals.log
