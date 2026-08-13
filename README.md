@@ -57,6 +57,7 @@ root@gxxdevv-core:~# cat current_goals.log
 [⏳] Conquistar a primeira oportunidade na área de tecnologia
 
 root@gxxdevv-core:~# _
+```
 
 ## 🚀 [04] // PROJETOS_EM_DESTAQUE
 
