@@ -46,18 +46,14 @@
 
 ## 🖥️ [03] // DIRECTIVE_LOG (OBJETIVOS)
 
-```bash
-root@gxxdevv-core:~# cat current_goals.log
 
-[✓] Dominar estruturas de dados e algoritmos em python
-[✓] Construir aplicações interativas e modulares em Python
-[⏳] Desenvolver e lançar o projeto Vortexx
-[⏳] Aprofundar estudos em bancos de dados SQL
-[⏳] Aprender mais em JavaScript, C# e C++
-[⏳] Conquistar a primeira oportunidade na área de tecnologia
+* **[✓] Dominar estruturas de dados e algoritmos em python
+* **[✓] Construir aplicações interativas e modulares em Python
+* **[⏳] Desenvolver e lançar o projeto Vortexx
+* **[⏳] Aprofundar estudos em bancos de dados SQL
+* **[⏳] Aprender mais em JavaScript, C# e C++
+* **[⏳] Conquistar a primeira oportunidade na área de tecnologia
 
-root@gxxdevv-core:~# _
-```
 
 ## 🚀 [04] // PROJETOS_EM_DESTAQUE
 
