@@ -82,8 +82,8 @@
 ## 📊 Performance_Metrics
 
 <div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=gxxdevv&show_icons=true&theme=dark&bg_color=0d1117&text_color=00f0ff&icon_color=7000ff&title_color=00f0ff&border_color=00f0ff&hide_border=false" />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gxxdevv&layout=compact&theme=dark&bg_color=0d1117&text_color=00f0ff&title_color=00f0ff&border_color=00f0ff&hide_border=false" />
+  <img height="180" src="https://github-readme-stats.vercel.app/api?username=gxxdevv&show_icons=true&theme=dark&bg_color=0d1117&text_color=00f0ff&icon_color=7000ff&title_color=00f0ff&border_color=00f0ff&hide_border=false" />
+  <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gxxdevv&layout=compact&theme=dark&bg_color=0d1117&text_color=00f0ff&title_color=00f0ff&border_color=00f0ff&hide_border=false" />
 </div>
 
 <br />
