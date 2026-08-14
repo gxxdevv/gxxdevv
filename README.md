@@ -110,15 +110,23 @@
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=gxxdevv&theme=react-dark&bg_color=0d1117&color=00f0ff&line=7000ff&point=00f0ff&area=true&hide_border=false&border_color=00f0ff" width="100%" />
 </div>
 
-## 📡 [07] // CANAIS_DE_COMUNICAÇÃO
+## 📭 // Contatos
 
 <div align="center">
   <a href="https://www.instagram.com/gustavog010._/" target="_blank">
     <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
   </a>
+
   <a href="https://profile.indeed.com/?hl=pt_BR&co=BR&from=gnav-notifcenter" target="_blank">
     <img src="https://img.shields.io/badge/Indeed-003A9B?style=for-the-badge&logo=indeed&logoColor=white" />
   </a>
+
+  <a
+href="https://www.linkedin.com/in/gustavo-guilherme-83210642a/" target="_blank">
+  <img 
+src="https://linkedin.com" alt="LinkedIn">
+</a>
+
 </div>
 
 ---
