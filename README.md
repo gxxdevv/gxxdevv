@@ -2,18 +2,6 @@
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:000000,50:0d1117,100:00f0ff&height=200&section=header&text=GUSTAVO&fontSize=50&fontColor=00f0ff&animation=fadeIn&fontAlignY=35" width="100%" />
 </div>
 
-<div align="center">
-  <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=18&duration=2500&pause=800&color=7000FF&center=true&vCenter=true&width=550&height=40&lines=Future+Software+Engineer" alt="Typing Subtitle" />
-  </a>
-</div>
-
-<p align="center">
-  <img src="https://img.shields.io/badge/System_Status-ONLINE-00f0ff?style=for-the-badge&logo=radar&logoColor=00f0ff" />
-  <img src="https://img.shields.io/badge/Security_Level-MAX-7000ff?style=for-the-badge&logo=shield&logoColor=7000ff" />
-  <img src="https://img.shields.io/badge/Role-Student_Developer-ff0055?style=for-the-badge&logo=codeforces&logoColor=ff0055" />
-</p>
-
 ## 🔮 [01] // SOBRE_O_SISTEMA
 
 * **👤 Usuário:** `gxxdevv` (Gustavo)
@@ -125,7 +113,7 @@
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
 
-  <a href="mailto:gxxdevv@gmail.com" target="_blank">
+  <a href="https://mail.google.com/mail/?view=cm&fs=1&to=gxxdevv@gmail.com" target="_blank">
     <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
 
