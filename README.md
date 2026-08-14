@@ -2,18 +2,18 @@
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:000000,50:0d1117,100:00f0ff&height=200&section=header&text=GUSTAVO&fontSize=50&fontColor=00f0ff&animation=fadeIn&fontAlignY=35" width="100%" />
 </div>
 
-## 🔮 [01] // SOBRE_O_SISTEMA
+## 👤 About Me
 
-* **👤 Usuário:** `gxxdevv` (Gustavo)
-* **🎓 Status:** Estudante & Desenvolvedor
-* **🎯 Foco Atual:** Aprimorando arquitetura de software e lógica de programação
-* **💬 Diretriz:** *"Se nem Deus agradou a todos, eu vou agradar? Longe disso..."*
+* **👤 User:** `gxxdevv` (Gustavo)
+* **🎓 Status:** Student & Developer
+* **🎯 Current Focus:** Improving software architecture and programming logic
+* **💬 Guideline:** *"Se nem Deus agradou a todos, eu vou agradar? Longe disso..."*
 
-> 🛸 **Aviso do Sistema:** Em busca constante de conhecimento, resolvendo problemas e desenvolvendo projetos com foco em alto desempenho e visual elegante.
+> 🚀 Student developer constantly learning through trial and error, focused on building better code and clean designs.
 
 
-## ⚡ [02] // ARSENAL_TECNOLÓGICO
-### 💻 Linguagens de Programação
+## ⚡ [02] // TECH_STACK
+### 💻 Programming Languages
 <p align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" alt="Python" width="48" height="48"/>&nbsp;&nbsp;
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" alt="JavaScript" width="48" height="48"/>&nbsp;&nbsp;
@@ -21,7 +21,7 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" alt="CSS3" width="48" height="48"/>
 </p>
 
-### 🛠️ Ferramentas & IDEs
+### 🛠️ Tools & IDEs
 <p align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" alt="VS Code" width="48" height="48"/>&nbsp;&nbsp;
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jetbrains/jetbrains-original.svg" alt="JetBrains" width="48" height="48"/>&nbsp;&nbsp;
@@ -29,18 +29,18 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" alt="GitHub" width="48" height="48"/>
 </p>
 
-## 🖥️ [03] // DIRECTIVE_LOG (OBJETIVOS)
+## 🖥️ Goals
 
 
-* [✓] Dominar estruturas de dados em python
-* [✓] Construir aplicações interativas e modulares em Python
-* [⏳] Desenvolver e lançar o projeto Vortexx
-* [⏳] Aprofundar estudos em bancos de dados SQL
-* [⏳] Aprender mais em JavaScript, C# e C++
-* [⏳] Conquistar a primeira oportunidade na área de tecnologia
+> [✓] Master data structures in Python  
+> [✓] Build interactive and modular applications in Python  
+> [⏳] Develop and launch Project Vortexx  
+> [⏳] Deepen studies in SQL databases  
+> [⏳] Learn more JavaScript, C#, and C++  
+> [⏳] Land my first opportunity in tech  
 
 
-## 🚀 [04] // PROJETOS_EM_DESTAQUE
+## 🚀 Featured_Projects
 
 <table width="100%">
   <tr>
@@ -49,19 +49,19 @@
       <p align="center">
         <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" />
       </p>
-      <p>Sistema interativo em terminal desenvolvido em Python com tratamento robusto de erros e menus estruturados. Conta com utilidades como conversor de moedas, calculadora completa e jogos interativos (Adivinhação e Jokenpô).</p>
+      <p>Interactive terminal system built in Python featuring robust error handling and structured menus. Includes utilities such as a currency converter, full calculator, and interactive games (Guessing game and Rock-Paper-Scissors).</p>
       <p align="center">
-        <a href="https://github.com/gxxdevv/SimpleMenuPython/blob/master/app.py"><code>[ACESSAR_REPOSITÓRIO]</code></a>
+        <a href="https://github.com/gxxdevv/SimpleMenuPython/blob/master/app.py"><code>[ACCESS_REPOSITORY]</code></a>
       </p>
     </td>
     <td width="50%" valign="top">
       <h3 align="center">🌀 Vortexx (Under Construction)</h3>
       <p align="center">
-        <img src="https://img.shields.io/badge/Status-EM_DESENVOLVIMENTO-7000ff?style=flat-square" />
+        <img src="https://img.shields.io/badge/Status-IN_DEVELOPMENT-7000ff?style=flat-square" />
       </p>
-      <p>Projeto em fase ativa de desenvolvimento...</p>
+      <p>Project in active development...</p>
       <p align="center">
-        <a href="https://github.com/gxxdevv"><code>[AGUARDANDO_LAUNCH]</code></a>
+        <a href="https://github.com/gxxdevv"><code>[AWAITING_LAUNCH]</code></a>
       </p>
     </td>
   </tr>
@@ -69,17 +69,17 @@
 
 ---
 
-## 🏆 [05] // CONQUISTAS_DO_SISTEMA
+## 🏆 Achievements
 
 <div align="center">
   <img src="https://github-profile-trophies.vercel.app/?username=gxxdevv&theme=darkhub&no-frame=true&column=4&margin-w=15&margin-h=15" alt="Trophies" />
 </div>
 
-> 📊 **Status de Progressão:** Monitorando milestones, contribuições e conquistas de codificação em tempo real através do núcleo do GitHub.
+> 📊 **Progression Status:** Tracking milestones, contributions, and real-time coding achievements through GitHub core.
 
 ---
 
-## 📊 [06] // METRICAS_DE_DESEMPENHO
+## 📊 Performance_Metrics
 
 <div align="center">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=gxxdevv&show_icons=true&theme=dark&bg_color=0d1117&text_color=00f0ff&icon_color=7000ff&title_color=00f0ff&border_color=00f0ff&hide_border=false" />
@@ -98,7 +98,7 @@
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=gxxdevv&theme=react-dark&bg_color=0d1117&color=00f0ff&line=7000ff&point=00f0ff&area=true&hide_border=false&border_color=00f0ff" width="100%" />
 </div>
 
-## 📭 // Contatos
+## 📭 // Contact
 
 <div align="center">
   <a href="https://www.instagram.com/gustavog010._/" target="_blank">
