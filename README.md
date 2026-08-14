@@ -28,10 +28,7 @@
 ### 💻 Linguagens de Programação
 <p align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" alt="Python" width="48" height="48"/>&nbsp;&nbsp;
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" alt="C#" width="48" height="48"/>&nbsp;&nbsp;
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" alt="C++" width="48" height="48"/>&nbsp;&nbsp;
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" alt="JavaScript" width="48" height="48"/>&nbsp;&nbsp;
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" alt="SQL" width="48" height="48"/>&nbsp;&nbsp;
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" alt="HTML5" width="48" height="48"/>&nbsp;&nbsp;
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" alt="CSS3" width="48" height="48"/>
 </p>
@@ -47,7 +44,7 @@
 ## 🖥️ [03] // DIRECTIVE_LOG (OBJETIVOS)
 
 
-* [✓] Dominar estruturas de dados e algoritmos em python
+* [✓] Dominar estruturas de dados em python
 * [✓] Construir aplicações interativas e modulares em Python
 * [⏳] Desenvolver e lançar o projeto Vortexx
 * [⏳] Aprofundar estudos em bancos de dados SQL
@@ -74,7 +71,7 @@
       <p align="center">
         <img src="https://img.shields.io/badge/Status-EM_DESENVOLVIMENTO-7000ff?style=flat-square" />
       </p>
-      <p>Projeto em fase ativa de desenvolvimento. Uma nova aplicação com foco em desempenho, lógica avançada e arquitetura moderna. Atualizações em breve...</p>
+      <p>Projeto em fase ativa de desenvolvimento...</p>
       <p align="center">
         <a href="https://github.com/gxxdevv"><code>[AGUARDANDO_LAUNCH]</code></a>
       </p>
