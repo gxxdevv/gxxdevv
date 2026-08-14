@@ -121,11 +121,9 @@
     <img src="https://img.shields.io/badge/Indeed-003A9B?style=for-the-badge&logo=indeed&logoColor=white" />
   </a>
 
-  <a
-href="https://www.linkedin.com/in/gustavo-guilherme-83210642a/" target="_blank">
-  <img 
- <img src="https://img.shields.io/badge/LinkedIn-003A9B?style=for-the-badge&logo=linkedIn&logoColor=white" />
-</a>
+  <a href="https://www.linkedin.com/in/gustavo-guilherme-83210642a/" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
 
 </div>
 
