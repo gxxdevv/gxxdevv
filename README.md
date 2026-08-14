@@ -124,7 +124,7 @@
   <a
 href="https://www.linkedin.com/in/gustavo-guilherme-83210642a/" target="_blank">
   <img 
-src="https://linkedin.com" alt="LinkedIn">
+ <img src="https://img.shields.io/badge/LinkedIn-003A9B?style=for-the-badge&logo=linkedIn&logoColor=white" />
 </a>
 
 </div>
