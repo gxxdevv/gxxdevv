@@ -2,18 +2,18 @@
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:000000,50:0d1117,100:00f0ff&height=200&section=header&text=GUSTAVO&fontSize=50&fontColor=00f0ff&animation=fadeIn&fontAlignY=35" width="100%" />
 </div>
 
-## 👤 About Me
+## About Me
 
-* **👤 User:** `gxxdevv` (Gustavo)
-* **🎓 Status:** Student & Developer
-* **🎯 Current Focus:** Improving software architecture and programming logic
-* **💬 Guideline:** *"Se nem Deus agradou a todos, eu vou agradar? Longe disso..."*
+* **User:** `gxxdevv` (Gustavo)
+* **Status:** Student & Developer
+* **Current Focus:** Improving software architecture and programming logic
+* **💬 Guideline:** *"🫩"*
 
-> 🚀 Student developer constantly learning through trial and error, focused on building better code and clean designs.
+> Student developer constantly learning through trial and error, focused on building better code and clean designs.
 
 
-## ⚡ [02] // TECH_STACK
-### 💻 Programming Languages
+## [02] // TECH_STACK
+### Programming Languages
 <p align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" alt="Python" width="48" height="48"/>&nbsp;&nbsp;
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" alt="JavaScript" width="48" height="48"/>&nbsp;&nbsp;
@@ -21,7 +21,7 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" alt="CSS3" width="48" height="48"/>
 </p>
 
-### 🛠️ Tools & IDEs
+### Tools & IDEs
 <p align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" alt="VS Code" width="48" height="48"/>&nbsp;&nbsp;
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jetbrains/jetbrains-original.svg" alt="JetBrains" width="48" height="48"/>&nbsp;&nbsp;
@@ -29,7 +29,7 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" alt="GitHub" width="48" height="48"/>
 </p>
 
-## 🖥️ Goals
+## Goals
 
 
 > [✓] Master data structures in Python  
@@ -40,7 +40,7 @@
 > [⏳] Land my first opportunity in tech  
 
 
-## 🚀 Featured_Projects
+## Featured_Projects
 
 <table width="100%">
   <tr>
@@ -69,17 +69,17 @@
 
 ---
 
-## 🏆 Achievements
+## Achievements
 
 <div align="center">
   <img src="https://github-profile-trophies.vercel.app/?username=gxxdevv&theme=darkhub&no-frame=true&column=4&margin-w=15&margin-h=15" alt="Trophies" />
 </div>
 
-> 📊 **Progression Status:** Tracking milestones, contributions, and real-time coding achievements through GitHub core.
+> **Progression Status:** Tracking milestones, contributions, and real-time coding achievements through GitHub core.
 
 ---
 
-## 📊 Performance_Metrics
+## Performance_Metrics
 <div align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=gxxdevv&theme=dark&background=0D1117&border=00F0FF&stroke=00F0FF&alarm=7000FF&ring=00F0FF&fire=00F0FF&currStreakNum=00F0FF&sideNums=00F0FF&sideTitle=00F0FF&dates=7000FF" alt="Streak Stats" />
 </div>
@@ -90,7 +90,7 @@
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=gxxdevv&theme=react-dark&bg_color=0d1117&color=00f0ff&line=7000ff&point=00f0ff&area=true&hide_border=false&border_color=00f0ff" width="100%" />
 </div>
 
-## 📭 // Contact
+## // Contact
 
 <div align="center">
   <a href="https://www.instagram.com/gustavog010._/" target="_blank">
