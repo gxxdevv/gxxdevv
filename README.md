@@ -116,5 +116,5 @@
 <div align="center">
   <br />
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:000000,50:7000ff,100:00f0ff&height=120&section=footer" width="100%" />
-  <p><sub><code>"Se nem Deus agradou a todos, eu vou agradar? Longe disso..." // DESIGNED BY GUSTAVO</code></sub></p>
+  <p><sub><code>"I'm Tired" // DESIGNED BY GUSTAVO</code></sub></p>
 </div>
