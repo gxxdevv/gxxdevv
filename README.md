@@ -55,13 +55,13 @@
       </p>
     </td>
     <td width="50%" valign="top">
-      <h3 align="center">🌀 Vortexx (Under Construction)</h3>
+      <h3 align="center">🛠️ RPGpy [IN DEVELOPMEND]</h3>
       <p align="center">
         <img src="https://img.shields.io/badge/Status-IN_DEVELOPMENT-7000ff?style=flat-square" />
       </p>
       <p>Project in active development...</p>
       <p align="center">
-        <a href="https://github.com/gxxdevv"><code>[AWAITING_LAUNCH]</code></a>
+        <a href="https://github.com/gxxdevv/RPGpy"><code>[ACCESS_REPOSITORY]</code></a>
       </p>
     </td>
   </tr>
