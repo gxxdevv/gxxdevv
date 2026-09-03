@@ -55,7 +55,8 @@
       </p>
     </td>
     <td width="50%" valign="top">
-      <h3 align="center">🛠️ RPGpy [IN DEVELOPMEND]</h3>
+      <h3 align="center">🛠️ RPGpy
+</h3>
       <p align="center">
         <img src="https://img.shields.io/badge/Status-IN_DEVELOPMENT-7000ff?style=flat-square" />
       </p>
