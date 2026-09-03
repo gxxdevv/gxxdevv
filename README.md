@@ -1,10 +1,10 @@
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:000000,50:0d1117,100:00f0ff&height=200&section=header&text=GUSTAVO GUILHERME&fontSize=50&fontColor=00f0ff&animation=fadeIn&fontAlignY=35" width="100%" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:000000,50:0d1117,100:00f0ff&height=200&section=header&text=GUSTAVO&fontSize=50&fontColor=00f0ff&animation=fadeIn&fontAlignY=35" width="100%" />
 </div>
 
 ## About Me
 
-* **User:** `gxxdevv` (Gustavo Guilherme)
+* **User:** `gxxdevv` (Gustavo)
 * **Status:** Student & Developer
 * **Current Focus:** Improving software architecture and programming logic
 * **💬 Guideline:** *"🫩"*
@@ -36,7 +36,7 @@
 > [✓] Build interactive and modular applications in Python  
 > [⏳] Develop and launch Project Vortexx  
 > [⏳] Deepen studies in SQL databases  
-> [⏳] Learn more JavaScript, C#, and C++  
+> [⏳] Learn more JavaScrip and C#
 > [⏳] Land my first opportunity in tech  
 
 
