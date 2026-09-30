@@ -8,7 +8,7 @@
 
 ---
 
-## 👾 Sobre mim
+## Sobre mim
 
 ```python
 class Gustavo:
@@ -16,7 +16,7 @@ class Gustavo:
     estudando  = ["C++"]
     objetivo_1 = "Trabalhar com Backend"
     objetivo_2 = "Ser GameDev em uma empresa"
-    status     = "Player 1 · subindo de nível todo dia 🎮"
+    status     = "subindo de nível todo dia 🎮"
 ```
 
 ---
