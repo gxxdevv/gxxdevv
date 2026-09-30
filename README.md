@@ -1,5 +1,5 @@
 <!-- ===== CABEÇALHO EM ONDAS ===== -->
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=220&section=header&text=Gustavo&fontSize=70&fontAlignY=38&animation=fadeIn&desc=Estudante%20de%20Backend%20e%20GameDev&descSize=22&descAlignY=60" />
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:1a1440,100:2b1055&height=220&section=header&text=Gustavo&fontColor=ffffff&fontSize=70&fontAlignY=38&animation=fadeIn&desc=Estudante%20de%20Backend%20e%20GameDev&descSize=22&descAlignY=60" />
 
 <!-- ===== DIGITAÇÃO ANIMADA ===== -->
 <p align="center">
@@ -16,7 +16,7 @@ class Gustavo:
     estudando  = ["C++"]
     objetivo_1 = "Trabalhar com Backend"
     objetivo_2 = "Ser GameDev em uma empresa"
-    status     = "subindo de nível todo dia 🎮"
+    status     = "Player 1 · subindo de nível todo dia 🎮"
 ```
 
 ---
@@ -62,7 +62,9 @@ Meu primeiro jogo, feito em **GameMaker (GML)** e inspirado em Moonleap. Colete 
   <img src="https://streak-stats.demolab.com/?user=gxxdevv&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
 </p>
 
+
 ---
+
 
 ## 📫 Contato
 
@@ -82,4 +84,4 @@ Meu primeiro jogo, feito em **GameMaker (GML)** e inspirado em Moonleap. Colete 
 </p>
 
 <!-- ===== RODAPÉ EM ONDAS ===== -->
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=120&section=footer" />
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:2b1055,50:1a1440,100:0d1117&height=120&section=footer" />
