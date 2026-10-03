@@ -13,15 +13,14 @@
 ```python
 class Gustavo:
     cargo      = "Estudante de Backend e GameDev"
-    estudando  = ["C++"]
+    estudando  = ["C++"] ["POO em Python"]
     objetivo_1 = "Trabalhar com Backend"
-    objetivo_2 = "Ser GameDev em uma empresa"
-    status     = "Player 1 · subindo de nível todo dia 🎮"
+    objetivo_2 = "Ser GameDev em uma empresa indie ou AAA"
 ```
 
 ---
 
-## 🛠️ Stack
+## Stack
 
 <p align="center">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="50" height="50" alt="Python" title="Python" />
@@ -37,7 +36,7 @@ class Gustavo:
 
 ---
 
-## 🎮 Projeto em destaque
+## Projeto em destaque
 
 ### 🌙 Moonleap - FanGame
 
@@ -51,7 +50,7 @@ Meu primeiro jogo, feito em **GameMaker (GML)** e inspirado em Moonleap. Colete 
 
 ---
 
-## 📊 Estatísticas
+## Estatísticas
 
 <p align="center">
   <img height="170" src="https://github-readme-stats.vercel.app/api?username=gxxdevv&show_icons=true&theme=tokyonight&hide_border=true" alt="GitHub Stats" />
@@ -66,7 +65,7 @@ Meu primeiro jogo, feito em **GameMaker (GML)** e inspirado em Moonleap. Colete 
 ---
 
 
-## 📫 Contato
+## Contato
 
 <p align="center">
   <a href="https://www.instagram.com/gtx09._/">
