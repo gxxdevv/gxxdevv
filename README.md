@@ -8,11 +8,6 @@
 
 ---
 
-## Atualmente
-<p align="center">
-  Estudando <strong>C++</strong> &nbsp;&nbsp;
-
-
 ## Sobre mim
 
 ```yaml
