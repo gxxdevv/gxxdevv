@@ -1,5 +1,5 @@
 k<!-- ===== CABEÇALHO EM ONDAS ===== -->
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:1a1440,100:2b1055&height=220&section=header&text=Gustavo&fontColor=ffffff&fontSize=70&fontAlignY=38&animation=fadeIn&desc=Estudante%20de%20Backend%20e%20GameDev&descSize=22&descAlignY=60" />
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:1a1440,100:2b1055&height=220&section=header&text=Gustavo&fontColor=ffffff&fontSize=70&fontAlignY=38&animation=fadeIn&desc=Estudante%20de%20Backend%20e%20GameDev&descSize=22&descAlignY=60"/>
 
 <!-- ===== DIGITAÇÃO ANIMADA ===== -->
 <p align="center">
