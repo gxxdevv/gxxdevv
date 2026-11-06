@@ -9,10 +9,9 @@
 ---
 
 ## Atualmente
-
 <p align="center">
-  🔭 Estudando <strong>C++</strong> &nbsp;·&nbsp;
----
+  Estudando <strong>C++</strong> &nbsp;&nbsp;
+
 
 ## Sobre mim
 
@@ -93,4 +92,3 @@ objetivo: Backend Developer
 <!-- ===== RODAPÉ EM ONDAS ===== -->
 
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:4338ca,50:1e1b4b,100:0d1117&height=120&section=footer" alt="Rodapé" />
-```
