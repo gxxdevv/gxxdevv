@@ -1,9 +1,9 @@
-<!-- ===== CABEÇALHO EM ONDAS ===== -->
+k<!-- ===== CABEÇALHO EM ONDAS ===== -->
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:1a1440,100:2b1055&height=220&section=header&text=Gustavo&fontColor=ffffff&fontSize=70&fontAlignY=38&animation=fadeIn&desc=Estudante%20de%20Backend%20e%20GameDev&descSize=22&descAlignY=60" />
 
 <!-- ===== DIGITAÇÃO ANIMADA ===== -->
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1200&color=7C3AED&center=true&vCenter=true&width=520&lines=Estudando+C%2B%2B+atualmente;Sonho%3A+ser+Backend;Depois%3A+GameDev+em+uma+empresa" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1200&color=7C3AED&center=true&vCenter=true&width=520&lines=Estudando+C%2B%2B+atualmente;Sonho%3A+ser+Backend; alt="Typing SVG" />
 </p>
 
 ---
@@ -13,7 +13,7 @@
 ```python
 class Gustavo:
     cargo      = "Estudante de Backend e GameDev"
-    estudando  = ["C++"] ["POO em Python"]
+    estudando  = ["C++"] 
     objetivo_1 = "Trabalhar com Backend"
     objetivo_2 = "Ser GameDev em uma empresa indie ou AAA"
 ```
