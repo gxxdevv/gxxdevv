@@ -52,12 +52,11 @@ objetivo: Backend Developer
   </tr>
 </table>
 
-
 ## Estatísticas
 
 <p align="center">
-  <img height="170" src="https://github-readme-stats-sigma-five.vercel.app/api?username=gxxdevv&show_icons=true&theme=tokyonight&hide_border=true&title_color=818CF8&icon_color=818CF8" alt="GitHub Stats" />
-  <img height="170" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=gxxdevv&layout=compact&theme=tokyonight&hide_border=true&title_color=818CF8" alt="Top Langs" />
+  <img height="170" src="https://github-readme-stats.vercel.app/api?username=gxxdevv&show_icons=true&theme=tokyonight&hide_border=true&title_color=818CF8&icon_color=818CF8" alt="GitHub Stats" />
+  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gxxdevv&layout=compact&theme=tokyonight&hide_border=true&title_color=818CF8" alt="Top Langs" />
 </p>
 
 <p align="center">
@@ -65,9 +64,8 @@ objetivo: Backend Developer
 </p>
 
 <p align="center">
-  <img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=gxxdevv&theme=tokyo-night&hide_border=true" alt="Gráfico de Atividade" />
+  <img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=gxxdevv&theme=tokyo-night&hide_border=true&bg_color=0d1117&color=818cf8&line=6366f1&point=ffffff&area=true" alt="Gráfico de Atividade" />
 </p>
-
 
 ## Contato
 
