@@ -73,6 +73,6 @@
 <!-- ===== RODAPÉ ===== -->
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:#9ca3af,50:#374151,100:#0d1117&height=120&section=footer" width="100%" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:374151,100:9ca3af&height=120&section=footer" width="100%" alt="Rodapé" />
 
 </div>
