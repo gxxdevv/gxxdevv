@@ -1,9 +1,7 @@
 <!-- ===== CABEÇALHO ===== -->
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:#0d1117,50:#374151,100:#9ca3af&height=220&section=header&text=Gustavo&fontSize=70&fontColor=ffffff&fontAlign=50&fontAlignY=50&animation=fadeIn&desc=Estudante%20de%20Backend&descAlign=50&descAlignY=68&descSize=20" width="100%" />
-
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=9CA3AF&center=true&vCenter=true&width=600&lines=Estudando+Java+atualmente;Focando+em+me+tornar+desenvolvedor+Backend" alt="Digitação animada" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:374151,100:9ca3af&height=220&section=header&text=Gustavo&fontSize=70&fontColor=ffffff&fontAlign=50&fontAlignY=50&animation=fadeIn&desc=Estudante%20de%20Backend&descAlign=50&descAlignY=68&descSize=20" width="100%" />
 
 </div>
 
