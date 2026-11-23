@@ -50,7 +50,11 @@ objetivo: Desenvolvedor Backend
 <h3 align="center">Contribuições</h3>
 
 <p align="center">
-  <img src="https://ghchart.rshah.org/22c55e/gxxdevv" alt="Calendário de contribuições do GitHub" width="100%" />
+  <img
+    src="https://ghchart.rshah.org/4ade80/gxxdevv"
+    alt="Calendário de contribuições do GitHub"
+    width="100%"
+  />
 </p>
 
 <br/>
