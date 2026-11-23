@@ -15,6 +15,7 @@ nome: Gustavo Guilherme
 foco: Backend
 estudando: Java
 objetivo: Desenvolvedor Backend
+```
 
 <br/>
 
