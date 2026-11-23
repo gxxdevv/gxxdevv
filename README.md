@@ -10,10 +10,11 @@
 <!-- ===== SOBRE MIM ===== -->
 <h3 align="center">Sobre mim</h3>
 
-- **Nome:** Gustavo Guilherme
-- **Foco:** Backend
-- **Estudando:** Java
-- **Objetivo:** Desenvolvedor Backend
+```yaml
+nome: Gustavo Guilherme
+foco: Backend
+estudando: Java
+objetivo: Desenvolvedor Backend
 
 <br/>
 
