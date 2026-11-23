@@ -1,6 +1,7 @@
+<!-- ===== CABEÇALHO ===== -->
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0:0d1117,50:374151,100:9ca3af&height=220&section=header&text=Gustavo&fontSize=70&fontColor=ffffff&animation=fadeIn&desc=Estudante%20de%20Backend&descAlignY=68&descAlign=50" width="100%" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:#0d1117,50:#374151,100:#9ca3af&height=220&section=header&text=Gustavo&fontSize=70&fontColor=ffffff&fontAlign=50&fontAlignY=50&animation=fadeIn&desc=Estudante%20de%20Backend&descAlign=50&descAlignY=68&descSize=20" width="100%" />
 
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=9CA3AF&center=true&vCenter=true&width=600&lines=Estudando+Java+atualmente;Focando+em+me+tornar+desenvolvedor+Backend" alt="Digitação animada" />
 
@@ -8,6 +9,7 @@
 
 <br/>
 
+<!-- ===== SOBRE MIM ===== -->
 <h3 align="center">Sobre mim</h3>
 
 - **Nome:** Gustavo Guilherme
@@ -17,6 +19,7 @@
 
 <br/>
 
+<!-- ===== STACK ===== -->
 <h3 align="center">Stack</h3>
 
 <p align="center">
@@ -31,6 +34,7 @@
 
 <br/>
 
+<!-- ===== ESTATÍSTICAS ===== -->
 <h3 align="center">Estatísticas</h3>
 
 <p align="center">
@@ -48,19 +52,29 @@
 
 <br/>
 
+<!-- ===== CONTATO ===== -->
 <h3 align="center">Contato</h3>
 
 <p align="center">
-  <a href="https://www.instagram.com/gtx09._/"><img src="https://img.shields.io/badge/Instagram-374151?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" /></a>
-  <a href="https://www.linkedin.com/in/gustavo-guilherme-83210642a/"><img src="https://img.shields.io/badge/LinkedIn-374151?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
-  <a href="https://profile.indeed.com/gustavodeoliveiraguilherme"><img src="https://img.shields.io/badge/Indeed-374151?style=for-the-badge&logo=indeed&logoColor=white" alt="Indeed" /></a>
-  <a href="mailto:gxxdevv@gmail.com"><img src="https://img.shields.io/badge/Gmail-374151?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" /></a>
+  <a href="https://www.instagram.com/gtx09._/">
+    <img src="https://img.shields.io/badge/Instagram-374151?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" />
+  </a>
+  <a href="https://www.linkedin.com/in/gustavo-guilherme-83210642a/">
+    <img src="https://img.shields.io/badge/LinkedIn-374151?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+  </a>
+  <a href="https://profile.indeed.com/gustavodeoliveiraguilherme">
+    <img src="https://img.shields.io/badge/Indeed-374151?style=for-the-badge&logo=indeed&logoColor=white" alt="Indeed" />
+  </a>
+  <a href="mailto:gxxdevv@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-374151?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" />
+  </a>
 </p>
 
 <br/>
 
+<!-- ===== RODAPÉ ===== -->
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0:9ca3af,50:374151,100:0d1117&height=120&section=footer" width="100%" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:#9ca3af,50:#374151,100:#0d1117&height=120&section=footer" width="100%" />
 
 </div>
