@@ -43,6 +43,9 @@ sobre_mim = {
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="50" height="50" alt="CSS3" />
 </p>
 
+  <img src="https://code.visualstudio.com/brand" width="50" height="50" alt="Vscode" />
+</p>
+
 <br/>
 
 <!-- ===== ESTATÍSTICAS ===== -->
