@@ -23,12 +23,18 @@ objetivo: Desenvolvedor Backend
 <h3 align="center">Stack</h3>
 
 <p align="center">
+  <img src="https://upload.wikimedia.org/wikipedia/commons/1/18/ISO_C%2B%2B_Logo.svg?utm_source=pt.wikipedia.org&utm_campaign=index&utm_content=original" width="50" height="50" alt="C++" />
+  &nbsp;&nbsp;
+
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="50" height="50" alt="Python" />
   &nbsp;&nbsp;
+
   <img src="https://git-scm.com/images/logos/downloads/Git-Icon-1788C.svg" width="50" height="50" alt="Git" />
   &nbsp;&nbsp;
+
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="50" height="50" alt="HTML5" />
   &nbsp;&nbsp;
+
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="50" height="50" alt="CSS3" />
 </p>
 
