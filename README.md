@@ -13,7 +13,7 @@
 ```yaml
 nome: Gustavo Guilherme
 foco: Backend
-estudando: Java
+estudando: C++
 objetivo: Desenvolvedor Backend
 ```
 
@@ -25,7 +25,7 @@ objetivo: Desenvolvedor Backend
 <p align="center">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="50" height="50" alt="Python" />
   &nbsp;&nbsp;
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" width="50" height="50" alt="Java" />
+  <img src="https://git-scm.com/images/logos/downloads/Git-Icon-1788C.svg" width="50" height="50" alt="Git" />
   &nbsp;&nbsp;
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="50" height="50" alt="HTML5" />
   &nbsp;&nbsp;
