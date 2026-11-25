@@ -46,19 +46,6 @@ objetivo: Desenvolvedor Backend
   <img src="https://streak-stats.demolab.com/?user=gxxdevv&hide_border=true&background=0d1117&stroke=9ca3af&ring=22c55e&fire=22c55e&currStreakLabel=9ca3af&sideLabels=9ca3af&dates=6b7280&currStreakNum=ffffff&sideNums=ffffff" alt="GitHub Streak" />
 </p>
 
-<!-- ===== CALENDÁRIO DE CONTRIBUIÇÕES ===== -->
-<h3 align="center">Contribuições</h3>
-
-<p align="center">
-  <img
-    src="https://ghchart.rshah.org/4ade80/gxxdevv"
-    alt="Calendário de contribuições do GitHub"
-    width="100%"
-  />
-</p>
-
-<br/>
-
 <!-- ===== CONTATO ===== -->
 <h3 align="center">Contato</h3>
 
