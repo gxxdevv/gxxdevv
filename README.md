@@ -58,12 +58,14 @@ sobre_mim = {
   <img src="https://streak-stats.demolab.com/?user=gxxdevv&hide_border=true&background=0d1117&stroke=9ca3af&ring=22c55e&fire=22c55e&currStreakLabel=9ca3af&sideLabels=9ca3af&dates=6b7280&currStreakNum=ffffff&sideNums=ffffff" alt="GitHub Streak" />
 </p>
 
+
 <!-- ===== CONTATO ===== -->
 <h3 align="center">Contato</h3>
 
+<p align="center">
   <a href="https://instagram.com/gtx09._">
-  <img src="https://img.shields.io/badge/Instagram-374151?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" />
-</a>
+    <img src="https://img.shields.io/badge/Instagram-374151?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" />
+  </a>
 
   <a href="https://www.linkedin.com/in/gustavo-guilherme-83210642a/">
     <img src="https://img.shields.io/badge/LinkedIn-374151?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
@@ -78,7 +80,6 @@ sobre_mim = {
   </a>
 </p>
 
-<br/>
 
 <!-- ===== RODAPÉ ===== -->
 <div align="center">
