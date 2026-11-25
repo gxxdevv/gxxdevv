@@ -61,6 +61,11 @@ sobre_mim = {
 <!-- ===== CONTATO ===== -->
 <h3 align="center">Contato</h3>
 
+  <a
+href="Https://instagram.com/gtx09._">
+  <img
+src="https://upload.wikimedia.org/wikipedia/commons/a/a5/Instagram_icon.png?utm_source=pt.wikipedia.org&utm_campaign=index&utm_content=original" width="50" height="50" alt="Instagram" />
+
   <a href="https://www.linkedin.com/in/gustavo-guilherme-83210642a/">
     <img src="https://img.shields.io/badge/LinkedIn-374151?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
