@@ -31,6 +31,9 @@ sobre_mim = {
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="50" height="50" alt="Python" />
   &nbsp;&nbsp;
 
+  <img src="https://cdn.jsdelivr.net/gh/homarr-labs/dashboard-icons/svg/github-light.svg" width="50" height="50" alt="GitHub" />
+  &nbsp;&nbsp;
+
   <img src="https://git-scm.com/images/logos/downloads/Git-Icon-1788C.svg" width="50" height="50" alt="Git" />
   &nbsp;&nbsp;
 
