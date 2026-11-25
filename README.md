@@ -10,11 +10,11 @@
 <!-- ===== SOBRE MIM ===== -->
 <h3 align="center">Sobre mim</h3>
 
-```yaml
+```python
 nome: Gustavo Guilherme
-foco: Backend
+foco: Backend 
 estudando: C++
-objetivo: Desenvolvedor Backend
+objetivo: Engenharia de Software 
 ```
 
 <br/>
