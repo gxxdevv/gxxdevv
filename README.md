@@ -43,9 +43,6 @@ sobre_mim = {
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="50" height="50" alt="CSS3" />
 </p>
 
-  <img src= "https://cdn.jsdelivr.net/gh/homarr-labs/dashboard-icons/svg/vscode.svg" width="50" height="50" alt="Vscode" />
-</p>
-
 <br/>
 
 <!-- ===== ESTATÍSTICAS ===== -->
@@ -53,6 +50,7 @@ sobre_mim = {
 
 <p align="center">
   <img height="170" src="https://github-readme-stats.vercel.app/api?username=gxxdevv&show_icons=true&hide_border=true&bg_color=0d1117&title_color=9ca3af&text_color=d1d5db&icon_color=9ca3af" alt="GitHub Stats" />
+
   <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gxxdevv&layout=compact&hide_border=true&bg_color=0d1117&title_color=9ca3af&text_color=d1d5db" alt="Top Languages" />
 </p>
 
@@ -63,16 +61,14 @@ sobre_mim = {
 <!-- ===== CONTATO ===== -->
 <h3 align="center">Contato</h3>
 
-<p align="center">
-  <a href="https://www.instagram.com/gtx09._/">
-    <img src="https://img.shields.io/badge/Instagram-374151?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" />
-  </a>
   <a href="https://www.linkedin.com/in/gustavo-guilherme-83210642a/">
     <img src="https://img.shields.io/badge/LinkedIn-374151?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
+
   <a href="https://profile.indeed.com/gustavodeoliveiraguilherme">
     <img src="https://img.shields.io/badge/Indeed-374151?style=for-the-badge&logo=indeed&logoColor=white" alt="Indeed" />
   </a>
+
   <a href="mailto:gxxdevv@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-374151?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" />
   </a>
