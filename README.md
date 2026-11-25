@@ -11,10 +11,12 @@
 <h3 align="center">Sobre mim</h3>
 
 ```python
-nome: Gustavo Guilherme
-foco: Backend 
-estudando: C++
-objetivo: Engenharia de Software 
+sobre_mim = {
+    "nome": "Gustavo Guilherme",
+    "foco": "Backend",
+    "estudando": "C++",
+    "objetivo": "Engenharia de Software"
+}
 ```
 
 <br/>
