@@ -26,7 +26,7 @@ int main(){
         {"foco", "Backend"},
         {"estudando", "C++"},
         {"objetivo", "Engenharia de Software com foco em backend"}
-};
+    };
 
     return 0;
 }
@@ -63,9 +63,6 @@ int main(){
 
 <p align="center">
   <img height="170" src="https://github-readme-stats.vercel.app/api?username=gxxdevv&show_icons=true&hide_border=true&bg_color=0d1117&title_color=9ca3af&text_color=d1d5db&icon_color=9ca3af" alt="GitHub Stats" />
-
-  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gxxdevv&layout=compact&hide_border=true&bg_color=0d1117&title_color=9ca3af&text_color=d1d5db" alt="Top Languages" />
-</p>
 
 <p align="center">
   <img src="https://streak-stats.demolab.com/?user=gxxdevv&hide_border=true&background=0d1117&stroke=9ca3af&ring=22c55e&fire=22c55e&currStreakLabel=9ca3af&sideLabels=9ca3af&dates=6b7280&currStreakNum=ffffff&sideNums=ffffff" alt="GitHub Streak" />
