@@ -21,7 +21,7 @@ int main(){
     cout << "Me chamo Gustavo, tenho 16 anos, desde sempre eu gosto de tecnologia e programação." << "\n";
     cout << "Estudo programação desde outubro de 2026. Iniciei minha jornada em python, logo após, resolvi focar em c++." << "\n";
 
-    unordered_map<string, string> sobre mim = {
+    unordered_map<string, string> SobreMim = {
         {"nome", "Gustavo Guilherme"},
         {"foco", "Backend"},
         {"estudando", "C++"},
