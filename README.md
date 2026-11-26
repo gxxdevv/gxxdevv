@@ -1,5 +1,6 @@
 <!-- ===== CABEÇALHO ===== -->
 <div align="center">
+
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:374151,100:9ca3af&height=320&section=header&text=Gustavo&fontSize=70&fontColor=ffffff&fontAlign=50&fontAlignY=50&animation=fadeIn" width="100%" alt="Cabeçalho Gustavo" />
 
 </div>
@@ -72,6 +73,7 @@ int main(){
 
 <br/>
 
+## Repositórios Principais
 <!-- ===== ESTUDOS ===== -->
 <h3 align="center">Estudos</h3>
 
