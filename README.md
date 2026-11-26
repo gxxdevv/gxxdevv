@@ -1,4 +1,3 @@
-```markdown
 <!-- ===== CABEÇALHO ===== -->
 <div align="center">
 
@@ -116,4 +115,3 @@ int main(){
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:374151,100:9ca3af&height=310&section=footer" width="100%" alt="Rodapé" />
 
 </div>
-```
