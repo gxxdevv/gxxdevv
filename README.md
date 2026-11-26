@@ -45,6 +45,7 @@ int main(){
   &nbsp;&nbsp;
 
   <img src="assets/kotlin.svg" width="50" height="50" alt="Kotlin" />
+  &nbsp;&nbsp;
 
   <img src="https://cdn.jsdelivr.net/gh/homarr-labs/dashboard-icons/svg/github-light.svg" width="50" height="50" alt="GitHub" />
   &nbsp;&nbsp;
@@ -65,6 +66,7 @@ int main(){
 
 <p align="center">
   <img height="170" src="https://github-readme-stats.vercel.app/api?username=gxxdevv&show_icons=true&hide_border=true&bg_color=0d1117&title_color=9ca3af&text_color=d1d5db&icon_color=9ca3af" alt="GitHub Stats" />
+</p>
 
 <p align="center">
   <img src="https://streak-stats.demolab.com/?user=gxxdevv&hide_border=true&background=0d1117&stroke=9ca3af&ring=22c55e&fire=22c55e&currStreakLabel=9ca3af&sideLabels=9ca3af&dates=6b7280&currStreakNum=ffffff&sideNums=ffffff" alt="GitHub Streak" />
@@ -73,6 +75,7 @@ int main(){
 <br/>
 
 ## Repositórios Principais
+
 <!-- ===== ESTUDOS ===== -->
 <h3 align="center">Estudos</h3>
 
@@ -80,10 +83,6 @@ int main(){
   <a href="https://github.com/gxxdevv/cpp-study">
     <img src="https://github-readme-stats.vercel.app/api/pin/?username=gxxdevv&repo=cpp-study&hide_border=true&bg_color=0d1117&title_color=9ca3af&text_color=d1d5db&icon_color=9ca3af" alt="cpp-study" />
   </a>
-</p>
-
-<p align="center">
-
 </p>
 
 
