@@ -44,6 +44,10 @@ int main(){
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="50" height="50" alt="Python" />
   &nbsp;&nbsp;
 
+  <img
+src="https://pt.wikipedia.org/wiki/Ficheiro:Kotlin_logo_(2021-present).svg#/media/Ficheiro:Kotlin_icon_(2021-present).svg" width="50" height="50" alt="Kotlin" />
+  &nbsp;&nbsp;
+
   <img src="https://cdn.jsdelivr.net/gh/homarr-labs/dashboard-icons/svg/github-light.svg" width="50" height="50" alt="GitHub" />
   &nbsp;&nbsp;
 
