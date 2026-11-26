@@ -25,7 +25,7 @@ int main(){
         {"nome", "Gustavo Guilherme"},
         {"foco", "Backend"},
         {"estudando", "C++"},
-        {"objetivo": "Engenharia de Software com foco em backend"}
+        {"objetivo", "Engenharia de Software com foco em backend"}
 };
 
     return 0;
