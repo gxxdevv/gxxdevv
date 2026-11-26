@@ -1,3 +1,4 @@
+```markdown
 <!-- ===== CABEÇALHO ===== -->
 <div align="center">
 
@@ -71,6 +72,21 @@ int main(){
   <img src="https://streak-stats.demolab.com/?user=gxxdevv&hide_border=true&background=0d1117&stroke=9ca3af&ring=22c55e&fire=22c55e&currStreakLabel=9ca3af&sideLabels=9ca3af&dates=6b7280&currStreakNum=ffffff&sideNums=ffffff" alt="GitHub Streak" />
 </p>
 
+<br/>
+
+<!-- ===== ESTUDOS ===== -->
+<h3 align="center">Estudos</h3>
+
+<p align="center">
+  <a href="https://github.com/gxxdevv/cpp-study">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=gxxdevv&repo=cpp-study&hide_border=true&bg_color=0d1117&title_color=9ca3af&text_color=d1d5db&icon_color=9ca3af" alt="cpp-study" />
+  </a>
+</p>
+
+<p align="center">
+
+</p>
+
 
 <!-- ===== CONTATO ===== -->
 <h3 align="center">Contato</h3>
@@ -100,3 +116,4 @@ int main(){
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:374151,100:9ca3af&height=310&section=footer" width="100%" alt="Rodapé" />
 
 </div>
+```
