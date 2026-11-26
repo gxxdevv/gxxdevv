@@ -96,6 +96,6 @@ int main(){
 <!-- ===== RODAPÉ ===== -->
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:374151,100:9ca3af&height=120&section=footer" width="100%" alt="Rodapé" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:374151,100:9ca3af&height=310&section=footer" width="100%" alt="Rodapé" />
 
 </div>
