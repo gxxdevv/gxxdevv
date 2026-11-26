@@ -45,7 +45,7 @@ int main(){
   &nbsp;&nbsp;
 
   <img
-src="https://pt.wikipedia.org/wiki/Ficheiro:Kotlin_logo_(2021-present).svg#/media/Ficheiro:Kotlin_icon_(2021-present).svg" width="50" height="50" alt="Kotlin" />
+src="https://kotlinlang.org/docs/kotlin-brand-assets.html" width="50" height="50" alt="Kotlin" />
   &nbsp;&nbsp;
 
   <img src="https://cdn.jsdelivr.net/gh/homarr-labs/dashboard-icons/svg/github-light.svg" width="50" height="50" alt="GitHub" />
