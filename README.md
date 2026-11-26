@@ -10,22 +10,23 @@
 <!-- ===== SOBRE MIM ===== -->
 <h3 align="center">Sobre mim</h3>
 
-```python
-sobre_mim = {
-    "nome": "Gustavo Guilherme",
-    "foco": "Backend",
-    "estudando": "C++",
-    "objetivo": "Engenharia de Software"
-}
-```
-
 ```c++
 #include <iostream>
+#include <string>
+#include <unordered_map>
+
 using namespace std;
 
 int main(){
-    cout << "Me chamo Gustavo, tenho 16 anos, desde sempre eu gosto de tecnologia é programação." << "\n";
+    cout << "Me chamo Gustavo, tenho 16 anos, desde sempre eu gosto de tecnologia e programação." << "\n";
     cout << "Estudo programação desde outubro de 2026. Iniciei minha jornada em python, logo após, resolvi focar em c++." << "\n";
+
+    unordered_map<string, string> sobre mim = {
+        {"nome", "Gustavo Guilherme"},
+        {"foco", "Backend"},
+        {"estudando", "C++"},
+        {"objetivo": "Engenharia de Software com foco em backend"}
+};
 
     return 0;
 }
